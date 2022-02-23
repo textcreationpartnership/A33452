@@ -1,0 +1,309 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief relation of a vvonderful accident a dissolution of the earth, in the forest of Charnwood, about two miles from Loughborough in Leicestershire ; lately done, and discovered, and resorted to by many people, both old, and young / published by two lovers of art, I.C. and I.W.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33452</idno>
+            <idno type="STC">Wing C47</idno>
+            <idno type="STC">ESTC R7539</idno>
+            <idno type="EEBO-CITATION">11633078</idno>
+            <idno type="OCLC">ocm 11633078</idno>
+            <idno type="VID">47939</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33452)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47939)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 484:43)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief relation of a vvonderful accident a dissolution of the earth, in the forest of Charnwood, about two miles from Loughborough in Leicestershire ; lately done, and discovered, and resorted to by many people, both old, and young / published by two lovers of art, I.C. and I.W.</title>
+                  <author>I. C.</author>
+                  <author>I. W.</author>
+               </titleStmt>
+               <extent>[2], 6 p. ;  20 cm. </extent>
+               <publicationStmt>
+                  <publisher>sold by Nath. Ponder,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charnwood (England) --  Description and travel.</term>
+               <term>Loughborough (England) --  Description and travel.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:47939:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 24 -->
+            <p>A Brief Relation OF A <hi>VVonderful Accident,</hi> A DISSOLUTION OF THE EARTH, IN THE Foreſt of CHARNWOOD, About Two Miles from LOUGHBOROUGH in <hi>Leiceſterſhire;</hi> Lately Done, and Diſcovered, and Reſorted to by many People, both OLD, and YOUNG.</p>
+            <p>Publiſhed by two Lovers of Art, I. C. and I. W.</p>
+            <p>Sold by <hi>Nath. Ponder</hi> at the <hi>Peacock</hi> againſt the <hi>Stocks Market.</hi> 1679.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:47939:2"/>
+            <!-- PDF PAGE 25 -->
+            <head>To the READER.</head>
+            <p>TO your ingenious Acceptation, we communicate theſe our Obſervations; not for fil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hy Lucres ſ<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>, but for publick Sa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>sf<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ction, and T<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uth ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke, (be<g ref="char:EOLhyphen"/>ing provok'd thereto by ſome Pe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſons of Quality:) con<g ref="char:EOLhyphen"/>ſidering he evil cuſtom of erroneous Reports, and the fearful Rumors of ignorant People.</p>
+            <p>Read and judge charitably, without critical, or in<g ref="char:EOLhyphen"/>credulous Cenſure; here is no wand<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing Prol<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>y, nor ſuperfluous embelliſhm<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt of El<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>q<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nce, but a S<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>y into the proper <hi>Antitheſis,</hi> appar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll'd with neceſſary Language. Be candid, not canine.</p>
+            <closer>
+               <salute>Vale.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:47939:2"/>
+            <!-- PDF PAGE 25 -->
+            <head>THE DESCRIPTION OF THIS Wonderful BREACH.</head>
+            <p>THE Figure is almoſt circular, poſited in a declining condition to the Horizon, it being the end or fragment of a hilly body, and contains about two Acres of ground. In its upper Diviſon, or primary Breach, the lower, or <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> p<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> of it, lies a Yard (in ſome places) beneath the u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>moved body: ab<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> three parts of this c<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ar won<g ref="char:EOLhyphen"/>der<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhews ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mpton<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of the efficient cauſe; and the reſt ſhews little, or no defect.</p>
+            <p>About three paces from the upper Breach, (or prime Diviſon) is a ſecond Trench all down one Curve of the Circle, (aforeſaid) and ſome ſecond Fractures on the other ſide theſe be over the prime Trench or Breach li<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th a narrow path way; the fa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n part, whoſe Hypo<g ref="char:EOLhyphen"/>tenuſal ſhould fall upon the true Angular Point, (i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it
+<pb n="2" facs="tcp:47939:3"/>
+               <!-- PDF PAGE 26 -->had a Perpendicular Fall:) is ſubverted, and turned aſide on Foot, or more.</p>
+            <p>Between the Prime Breach, and ſecond Curvery Fra<g ref="char:EOLhyphen"/>cture, the Earth ſhews a Perpendicular Decent, or Down<g ref="char:EOLhyphen"/>right Falling, becauſe it doth thruſt it ſelf within its for<g ref="char:EOLhyphen"/>mer bounds; on the other ſide of the Curve, which is higher Ground, the parts of the Earth fallen, and un<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>al<g ref="char:EOLhyphen"/>len, ſhews the diſtance of a Foot; which if it ſhould be raiſed to a Parallel with its former Bounds, would dif<g ref="char:EOLhyphen"/>fer half a Yard. The Sine for theſe Curves, is the Ra<g ref="char:EOLhyphen"/>dius, or total Sine.</p>
+            <p>The lower part of the Periphery, (or Arch oppoſite to the Primary Breach) is rolled in, with an overſhoot<g ref="char:EOLhyphen"/>ing of his Bounds; as if it were driven, being light in ſubſtance, and ſtones (in ſome places thereof) thruſts forth themſelves. This lower Curve contains about half the Radius for its verſed Sine.</p>
+            <p>The unbreached part of the Periphery lies on the lower ſide of the Hill, in reſpect to the Hills ridge.</p>
+            <div type="part">
+               <head>Some Perſons judge WATER to be the cauſe of the BREACH; others, ſay WIND.</head>
+               <p>The latter we account proper, and conſider both, in method and manner following.</p>
+               <list>
+                  <item>1. <hi>That it was not WATER.</hi>
+                  </item>
+                  <item>2. <hi>That it was occaſioned by Wind.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <pb n="3" facs="tcp:47939:3"/>
+               <!-- PDF PAGE 26 -->
+               <head>
+                  <hi>REASONS Negative, and Affirmative,</hi> That it was not WATER.</head>
+               <p>
+                  <hi>Reaſ.</hi> 1. Water doth naturally run in a Channel, haſt<g ref="char:EOLhyphen"/>ing forward, yea, and that where the Ground is level: but where the Ground deſcendeth through which it's to paſs, there it forceth with a more direct courſe, and ſpeedy ſtream; not dilating it ſelf, but rather drawing its Body more cloſe into narrow Bounds.</p>
+               <p>
+                  <hi>Reaſ.</hi> 2. If Water had been the cauſe, then it ſhould not have run in a round Figure, where the Hill is ſo much deſcending; unleſs ſome artificial Pipes had been laid, which by the attractive power of the Air ſhould draw the Water up again; which if Fancy, or any perſons Suppoſition ſhould incline to, yet nevertheleſs it would have more powerful force in its Deſcent, than Aſcent.</p>
+               <p>
+                  <hi>Reaſ.</hi> 3. Had Water (by its violent Billows) caus'd this Accident, it would either have done it by an Erup<g ref="char:EOLhyphen"/>tion outward, or a Diſſolution of the Earth within, where<g ref="char:EOLhyphen"/>by the upper Superncies ſhould have fallen in, or ſunk within its counterminal Sides. Indeed, ſome part of the Ground we allow to be depreſſed, but another part is not, but rather heightned, by rolling up. And how any thing ſhould produce contrary effects to its nature, is marvellous!</p>
+               <p>
+                  <hi>Reaſ.</hi> 4. Had Water been the cauſe by demoliſhing the intrels of the Earth, then (running in a Channel) the Breach ſhould be oppoſite to its Current; and ſhould from hence the current of Water be gueſt to fall where the Ground is fallen in all down one Curve of the Circle, then ſhould not other Breach conſiderable appear from its Production, and the Earth would have been overſhot or carry'd that way as the Current of Water paſt; but the Earth is carried that way where no ſuch ſalling in appears.</p>
+            </div>
+            <div type="part">
+               <pb n="4" facs="tcp:47939:4"/>
+               <!-- PDF PAGE 27 -->
+               <head>That it was WIND.</head>
+               <p>
+                  <hi>Reaſ.</hi> 1. Becauſe it's ſo improbable to be Water; but we judge Wind <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>gh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> be the Ca<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, fora<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>much as it is its property to produce <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ch <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</p>
+               <p>
+                  <hi>Reaſ.</hi> 2 For Wind being gathered, and ſtreightned within the Bowels of the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arth, in order to an Earth<g ref="char:EOLhyphen"/>quake, doth at laſt (by a vo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tile motion) break or burſt forth in ſome plac<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, or other, with g<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>at violence, rending, tw<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ing in, and burying the ea<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> within is own b<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>vels: and in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s motion, arc<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ng, flying, and ſearching about, might (very naturally) cauſe this Breach.</p>
+               <p>
+                  <hi>Reaſ.</hi> 3. Becauſe the lower part of the Periphery which is overſh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> lies rolled in, hu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, or blown<g ref="char:punc">▪</g> dar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing from its ſwo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n (or enlarged) Pores, Stones o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a conſi<g ref="char:EOLhyphen"/>derable weight: as alſo the root of a Tree, which is turned up in the Primary Breach.</p>
+               <p>
+                  <hi>Reaſ.</hi> 4. This being at the Front of a hilly Range, the Earthquake might come running along, and there diſ<g ref="char:EOLhyphen"/>burden it ſelf: and that moreover that it's free from Rocks, the Ground ſolvable; and conſequently the Pores more eaſily extended.</p>
+            </div>
+            <div type="part">
+               <pb n="5" facs="tcp:47939:4"/>
+               <!-- PDF PAGE 27 -->
+               <head>Arguments correſponding with the former Reaſons.</head>
+               <p n="1">1. <hi>Arg.</hi> If Water had been the cauſe, then from a ſlant Deſcent, or Aſcent, the Breach would have ſhewed it ſelf in a right lined, or ſerpentine Figure, and more eſpecially in a right lined Figure, its Surface having Declination.</p>
+               <p>But this Breach is circular, and declining, contrary to a right lined, or ſerpentine Figure.</p>
+               <p>Therefore the Cauſe could not be Water.</p>
+               <p n="2">2. <hi>Arg</hi> Water was not the Cauſe, but rather Wind; for Wind is volotile, light, and forcible, and known to be of circular motion; where it's ſtreighten'd, and wants liberty to disburden, or diſperſe it ſelf into its own Element, it ſearches a paſſage, and by Operation, is (by Philoſophers) accounted the cauſe of Earthquakes, it vents, and turns up the Earth in its delivery thence.</p>
+               <p>But, in this Breach the Figure is circular, diverſly fra<g ref="char:EOLhyphen"/>ctured, blown or hu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> up, writhed, which are the Sym<g ref="char:EOLhyphen"/>ptoms of an Earthquake.</p>
+               <p>
+                  <hi>Ergo.</hi> Wind was the proper and true Cauſe.</p>
+            </div>
+            <div type="objections">
+               <pb n="6" facs="tcp:47939:5" rendition="simple:additions"/>
+               <!-- PDF PAGE 28 -->
+               <head>Now it remains that we anſwer three Objections, and conclude.</head>
+               <p n="1">1. <hi>Object.</hi> May ſome ſay, Had there been an Earth<g ref="char:EOLhyphen"/>quake, why was it not diſcerned, felt, or diſcovered by one or other?</p>
+               <p n="2">2. <hi>Object.</hi> Though Towns be not very nigh, yet there be ſome Inhabitants on the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oreſt nigh reſident, and would not they have been ſenſible of ſome motion or noiſe which accompany Earthquakes?</p>
+               <p n="3">3. <hi>Object.</hi> There be many Trees not far off, would not ſome of them have receiv'd prejudice by overturn<g ref="char:EOLhyphen"/>ing, or Rocks where you ſuppoſe the windy commotion ran along.</p>
+            </div>
+            <div type="answers">
+               <head>Anſwers to the Objections.</head>
+               <p>Anſ. 1. <hi>Had there been any Inhabitants dwelling on the ſaid Hill, they might then have felt it.</hi>
+               </p>
+               <p>Anſ. 2. <hi>As for them that dwell nigh, they might very well be unſenſible of noiſe, or motion, which might hap<g ref="char:EOLhyphen"/>pen in the Night; and becauſe Earthquakes (more general ones) have been experienced to operate in one part of the Town, and not in another part of the ſame; or in a various manner, in little diſtance; no wonder then if ſuch Inhabitants perceive it not.</hi>
+               </p>
+               <p>Anſ. 3. <hi>As for Trees, how ſhould they be prejudic'd, where the Earthquake came not? but had Trees ſtood where the Breach was made, they would probably then have been overthrown (as the roo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of a Tree aforeſaid) and as for Rocks being not removed over the windy paſ<g ref="char:EOLhyphen"/>ſage, they might be ſpar'd for the ſame reaſon that the ground in thoſe places was; and both ſpared, becauſe the diſturbance haſtens along to the Front, as a Stone to its Centre.</hi>
+               </p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
